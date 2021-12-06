@@ -1,0 +1,20 @@
+
+/*-------------------------- Boton invisible --------------------------*/
+button {
+    visibility: hidden;
+    display:none;
+  }
+
+/*-------------------------- icono list flecha arriba --------------------------*/
+  .li1{
+    list-style-image: url("assets/flecha1.PNG");
+    margin: 0 auto;
+    
+  }
+  /*-------------------------- icono list flecha arriba --------------------------*/
+
+  .li2{
+    list-style-image: url("assets/flecha2.PNG");
+    margin: 0 auto;
+    
+  }
